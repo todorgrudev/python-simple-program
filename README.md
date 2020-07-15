@@ -1,1 +1,1 @@
-# python simple program (with some help from a friend)
+# python simple program, the input is a txt file with columns: time / entrance / action / name
